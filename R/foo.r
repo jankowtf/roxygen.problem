@@ -21,7 +21,6 @@ setGeneric(
 )
 
 #' @describeIn foo
-#' @inheritParams foo
 #' @param x \code{\link{{}}}.
 #' @return \code{\link{expression}}. 
 #' @export
